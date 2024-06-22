@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T16:00:18 GET" name="Surefire suite" finished-at="2024-06-22T16:00:35 GET" duration-ms="17046">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T16:00:18 GET" name="Surefire test" finished-at="2024-06-22T16:00:35 GET" duration-ms="17046">
+      <class name="Tests.LoginPageTests">
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:18 GET" name="beforeMethod" finished-at="2024-06-22T16:00:19 GET" duration-ms="1408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@365a6a43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:19 GET" name="loginWithWrongPassword" description="ვცდილობთ სისტემაში შესვლას არასწორი Password-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:20 GET" duration-ms="814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ქართული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:20 GET" name="beforeMethod" finished-at="2024-06-22T16:00:21 GET" duration-ms="542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@288cdaab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:21 GET" name="loginWithWrongPassword" description="ვცდილობთ სისტემაში შესვლას არასწორი Password-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:21 GET" duration-ms="738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[მეგრული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:21 GET" name="beforeMethod" finished-at="2024-06-22T16:00:22 GET" duration-ms="437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@23b3aa8c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:22 GET" name="loginWithWrongPassword" description="ვცდილობთ სისტემაში შესვლას არასწორი Password-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:23 GET" duration-ms="746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[სვანური]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:23 GET" name="beforeMethod" finished-at="2024-06-22T16:00:23 GET" duration-ms="539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@99407c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:23 GET" name="loginWithWrongUsername" description="ვცდილობთ სისტემაში შესვლას არასწორი Username-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:24 GET" duration-ms="736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ქართული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:24 GET" name="beforeMethod" finished-at="2024-06-22T16:00:24 GET" duration-ms="555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6c796cc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:24 GET" name="loginWithWrongUsername" description="ვცდილობთ სისტემაში შესვლას არასწორი Username-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:25 GET" duration-ms="840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[მეგრული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:25 GET" name="beforeMethod" finished-at="2024-06-22T16:00:26 GET" duration-ms="895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@226eba67]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:26 GET" name="loginWithWrongUsername" description="ვცდილობთ სისტემაში შესვლას არასწორი Username-ით" data-provider="languageProvider" finished-at="2024-06-22T16:00:27 GET" duration-ms="743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[სვანური]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:27 GET" name="beforeMethod" finished-at="2024-06-22T16:00:28 GET" duration-ms="880" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1cb7936c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:28 GET" name="tryingToLoginWithoutPassword" description="ვცდილობთ სისტემაში შესვლას Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:28 GET" duration-ms="142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ქართული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:28 GET" name="beforeMethod" finished-at="2024-06-22T16:00:28 GET" duration-ms="429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@35342d2f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:28 GET" name="tryingToLoginWithoutPassword" description="ვცდილობთ სისტემაში შესვლას Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:29 GET" duration-ms="137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[მეგრული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:29 GET" name="beforeMethod" finished-at="2024-06-22T16:00:30 GET" duration-ms="1095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@128c502c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:30 GET" name="tryingToLoginWithoutPassword" description="ვცდილობთ სისტემაში შესვლას Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:30 GET" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[სვანური]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:30 GET" name="beforeMethod" finished-at="2024-06-22T16:00:30 GET" duration-ms="370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@45667d98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:30 GET" name="tryingToLoginWithoutUsername" description="ვცდილობთ სისტემაში შესვლას Username ველის შევსების გარეშე შესვლა ღილაკი ჩათიშულია" data-provider="languageProvider" finished-at="2024-06-22T16:00:30 GET" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ქართული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:30 GET" name="beforeMethod" finished-at="2024-06-22T16:00:31 GET" duration-ms="371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@65eabaab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:31 GET" name="tryingToLoginWithoutUsername" description="ვცდილობთ სისტემაში შესვლას Username ველის შევსების გარეშე შესვლა ღილაკი ჩათიშულია" data-provider="languageProvider" finished-at="2024-06-22T16:00:31 GET" duration-ms="139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[მეგრული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:31 GET" name="beforeMethod" finished-at="2024-06-22T16:00:33 GET" duration-ms="2587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7123be6c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsername(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:33 GET" name="tryingToLoginWithoutUsername" description="ვცდილობთ სისტემაში შესვლას Username ველის შევსების გარეშე შესვლა ღილაკი ჩათიშულია" data-provider="languageProvider" finished-at="2024-06-22T16:00:33 GET" duration-ms="114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[სვანური]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsername -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:33 GET" name="beforeMethod" finished-at="2024-06-22T16:00:34 GET" duration-ms="360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1de9d54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsernameAndPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:34 GET" name="tryingToLoginWithoutUsernameAndPassword" description="ვცდილობთ სისტემაში შესვლას Username Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:34 GET" duration-ms="79" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ქართული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsernameAndPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:34 GET" name="beforeMethod" finished-at="2024-06-22T16:00:34 GET" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@77a2aa4a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsernameAndPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:34 GET" name="tryingToLoginWithoutUsernameAndPassword" description="ვცდილობთ სისტემაში შესვლას Username Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:34 GET" duration-ms="84" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[მეგრული]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsernameAndPassword -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:34 GET" name="beforeMethod" finished-at="2024-06-22T16:00:35 GET" duration-ms="367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@47ad69f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tryingToLoginWithoutUsernameAndPassword(java.lang.String)[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:35 GET" name="tryingToLoginWithoutUsernameAndPassword" description="ვცდილობთ სისტემაში შესვლას Username Password ველის შევსების გარეშე შესვლა ღილაკი ჩათიშული" data-provider="languageProvider" finished-at="2024-06-22T16:00:35 GET" duration-ms="99" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[სვანური]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryingToLoginWithoutUsernameAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginPageTests@3212a8d7]" started-at="2024-06-22T16:00:35 GET" name="tearDown" finished-at="2024-06-22T16:00:35 GET" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LoginPageTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LoginPageTests" verbose="1">
+    <test name="Credo Login Page Automation Testing">
+    
+    <classes>
+
+        <class name="Tests.LoginPageTests"/>
+    </classes>
+    
+    </test>
+
+    
+</suite>
