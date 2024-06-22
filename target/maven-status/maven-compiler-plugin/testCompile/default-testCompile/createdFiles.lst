@@ -3,3 +3,4 @@ Page\LoginPage.class
 Utils\LanguageProvider.class
 Utils\RandomStringGenerator.class
 Tests\LoginPageTests.class
+Steps\LanguagePopUpSteps.class

@@ -3,11 +3,8 @@
     <test name="Credo Login Page Automation Testing">
     
     <classes>
-
         <class name="Tests.LoginPageTests"/>
     </classes>
     
     </test>
-
-    
 </suite>
